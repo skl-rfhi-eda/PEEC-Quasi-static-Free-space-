@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gaussion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Connect_Function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Connection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Element_Built.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Global_Init.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Integral_By_Mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_MKL_Interface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Read_File.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Singular_Treatment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Solver_Freq.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Solver_Time.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Type.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod_Save_Circuit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Gaussion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Connect_Function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Connection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Element_Built.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Global_Init.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Integral_By_Mesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_MKL_Interface.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Read_File.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Singular_Treatment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Solver_Freq.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Solver_Time.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod_Save_Circuit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
